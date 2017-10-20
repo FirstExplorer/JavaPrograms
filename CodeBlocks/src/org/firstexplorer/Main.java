@@ -42,7 +42,7 @@ public class Main {
         levelCompleted = 8;
         bonus = 200;
 
-        if(gameOver) {
+        if(gameOver) { //== true;
             int finalScore = score + (levelCompleted * bonus);
             System.out.println("Your final score was " + finalScore);
         }
