@@ -1,4 +1,4 @@
-package org.firstexplorergitcd;
+package org.firstexplorer;
 
 public class Main {
 
