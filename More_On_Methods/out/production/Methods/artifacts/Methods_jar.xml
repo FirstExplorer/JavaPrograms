@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Methods:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Methods_jar</output-path>
+    <root id="archive" name="Methods.jar">
+      <element id="module-output" name="Methods" />
+      <element id="dir-copy" path="$PROJECT_DIR$" />
+      <element id="library" level="project" name="More-On-Methods" />
+    </root>
+  </artifact>
+</component>
